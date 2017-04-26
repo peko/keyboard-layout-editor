@@ -1,0 +1,28 @@
+{
+  "name": "keyboard-layout-editor",
+  "version": "1.0.0",
+  "description": "Keyboard layout editor",
+  "main": "editor.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peko/keyboard-layout-editor.git"
+  },
+  "keywords": [
+    "keyboard",
+    "layout",
+    "linux",
+    "cli"
+  ],
+  "author": "peko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peko/keyboard-layout-editor/issues"
+  },
+  "homepage": "https://github.com/peko/keyboard-layout-editor#readme",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
